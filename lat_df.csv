@@ -1,0 +1,13 @@
+,Id,Rhymes_total,Lines_total,Rhyme_ratio,2x_rhymes,3x_rhymes,4+_rhymes,Most_frequent_4+_rhyme,Longest_4+_rhyme,Full_rhymes,Most_frequent_full_rhyme,Longest_full_rhyme
+1,ALL GLOBAL,2471,55069,4.49%,1866,354,140,ebat (16),ventis,111,qve (31),pvtabant
+2,Calpurnius,38,757,5.02%,33,3,2,esset (1),esset,0,None,None
+3,Germanicus,37,725,5.1%,33,3,1,gent (1),gent,0,None,None
+4,Grattius,22,541,4.07%,19,3,0,None,None,0,None,None
+5,Horatius,90,2139,4.21%,63,12,2,orvm (1),orvm,13,qve (7),viator
+6,Juvenal,130,3893,3.34%,98,17,7,ores (2),illis,8,exi (1),qvando
+7,Lucretius,379,7414,5.11%,245,74,35,ntvr (6),ventis,25,qve (7),pvtabant
+8,Manilius,190,4280,4.44%,153,24,8,ntvr (1),ebant,5,est (2),horam
+9,Ovidius,558,11993,4.65%,398,86,33,ebat (8),entem,41,qve (10),precaris
+10,Persius,28,656,4.27%,22,3,0,None,None,3,exit (1),exit
+11,Statius,394,9763,4.04%,333,46,12,entem (2),tervae,3,qve (2),qverelis
+12,Vergil,605,12908,4.69%,469,83,40,ebat (7),ventis,13,qve (3),fvisset

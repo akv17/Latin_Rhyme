@@ -1,0 +1,16 @@
+Id: Germanicus;
+
+Rhymes_total: 37;
+Lines_total: 725;
+Rhyme_ratio: 5.1%;
+
+2x_rhymes: 33;
+3x_rhymes: 3;
+4+_rhymes: 1;
+Most_frequent_4+_rhyme: gent (1);
+Longest_4+_rhyme: gent;
+
+Full_rhymes: 0;
+Most_frequent_full_rhyme: None;
+Longest_full_rhyme: None
+

@@ -1,0 +1,16 @@
+Id: Persius;
+
+Rhymes_total: 28;
+Lines_total: 656;
+Rhyme_ratio: 4.27%;
+
+2x_rhymes: 22;
+3x_rhymes: 3;
+4+_rhymes: 0;
+Most_frequent_4+_rhyme: None;
+Longest_4+_rhyme: None;
+
+Full_rhymes: 3;
+Most_frequent_full_rhyme: exit (1);
+Longest_full_rhyme: exit
+

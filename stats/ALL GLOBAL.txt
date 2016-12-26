@@ -1,0 +1,16 @@
+Id: ALL GLOBAL;
+
+Rhymes_total: 2471;
+Lines_total: 55069;
+Rhyme_ratio: 4.49%;
+
+2x_rhymes: 1866;
+3x_rhymes: 354;
+4+_rhymes: 140;
+Most_frequent_4+_rhyme: ebat (16);
+Longest_4+_rhyme: ventis;
+
+Full_rhymes: 111;
+Most_frequent_full_rhyme: qve (31);
+Longest_full_rhyme: pvtabant
+

@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>/AUTHOR/</title>
+	<style>
+	p{font-family:"Times New Roman", serif; font-size: 16px}
+	span.mrk2{font-family:"Times New Roman", serif; font-size: 16px; font-weight: 500; background: #00FF00; padding: 0px}
+	span.mrk3{font-family:"Times New Roman", serif; font-size: 16px; font-weight: 500; background: #00FFFF; padding: 0px}
+	span.mrk4{font-family:"Times New Roman", serif; font-size: 16px; font-weight: 500; background: #9370DB; padding: 0px}
+	span.mrkfull{font-family:"Times New Roman", serif; font-size: 16px; font-weight: 500; background: #FFD700; padding: 0px}
+	
+	</style>
+</head>
+<body>
+<p>
+/TEXT/
+</p>
+</body>
+</html>

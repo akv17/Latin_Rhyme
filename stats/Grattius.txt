@@ -1,0 +1,16 @@
+Id: Grattius;
+
+Rhymes_total: 22;
+Lines_total: 541;
+Rhyme_ratio: 4.07%;
+
+2x_rhymes: 19;
+3x_rhymes: 3;
+4+_rhymes: 0;
+Most_frequent_4+_rhyme: None;
+Longest_4+_rhyme: None;
+
+Full_rhymes: 0;
+Most_frequent_full_rhyme: None;
+Longest_full_rhyme: None
+

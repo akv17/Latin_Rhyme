@@ -1,0 +1,16 @@
+Id: Vergil;
+
+Rhymes_total: 605;
+Lines_total: 12908;
+Rhyme_ratio: 4.69%;
+
+2x_rhymes: 469;
+3x_rhymes: 83;
+4+_rhymes: 40;
+Most_frequent_4+_rhyme: ebat (7);
+Longest_4+_rhyme: ventis;
+
+Full_rhymes: 13;
+Most_frequent_full_rhyme: qve (3);
+Longest_full_rhyme: fvisset
+

@@ -1,0 +1,16 @@
+Id: Manilius;
+
+Rhymes_total: 190;
+Lines_total: 4280;
+Rhyme_ratio: 4.44%;
+
+2x_rhymes: 153;
+3x_rhymes: 24;
+4+_rhymes: 8;
+Most_frequent_4+_rhyme: ntvr (1);
+Longest_4+_rhyme: ebant;
+
+Full_rhymes: 5;
+Most_frequent_full_rhyme: est (2);
+Longest_full_rhyme: horam
+

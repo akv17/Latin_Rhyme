@@ -1,0 +1,16 @@
+Id: Calpurnius;
+
+Rhymes_total: 38;
+Lines_total: 757;
+Rhyme_ratio: 5.02%;
+
+2x_rhymes: 33;
+3x_rhymes: 3;
+4+_rhymes: 2;
+Most_frequent_4+_rhyme: esset (1);
+Longest_4+_rhyme: esset;
+
+Full_rhymes: 0;
+Most_frequent_full_rhyme: None;
+Longest_full_rhyme: None
+

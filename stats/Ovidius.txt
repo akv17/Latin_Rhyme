@@ -1,0 +1,16 @@
+Id: Ovidius;
+
+Rhymes_total: 558;
+Lines_total: 11993;
+Rhyme_ratio: 4.65%;
+
+2x_rhymes: 398;
+3x_rhymes: 86;
+4+_rhymes: 33;
+Most_frequent_4+_rhyme: ebat (8);
+Longest_4+_rhyme: entem;
+
+Full_rhymes: 41;
+Most_frequent_full_rhyme: qve (10);
+Longest_full_rhyme: precaris
+

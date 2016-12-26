@@ -1,0 +1,16 @@
+Id: Juvenal;
+
+Rhymes_total: 130;
+Lines_total: 3893;
+Rhyme_ratio: 3.34%;
+
+2x_rhymes: 98;
+3x_rhymes: 17;
+4+_rhymes: 7;
+Most_frequent_4+_rhyme: ores (2);
+Longest_4+_rhyme: illis;
+
+Full_rhymes: 8;
+Most_frequent_full_rhyme: exi (1);
+Longest_full_rhyme: qvando
+

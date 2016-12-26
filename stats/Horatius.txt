@@ -1,0 +1,16 @@
+Id: Horatius;
+
+Rhymes_total: 90;
+Lines_total: 2139;
+Rhyme_ratio: 4.21%;
+
+2x_rhymes: 63;
+3x_rhymes: 12;
+4+_rhymes: 2;
+Most_frequent_4+_rhyme: orvm (1);
+Longest_4+_rhyme: orvm;
+
+Full_rhymes: 13;
+Most_frequent_full_rhyme: qve (7);
+Longest_full_rhyme: viator
+
